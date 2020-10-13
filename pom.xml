@@ -36,7 +36,7 @@
         <pagehelper-spring-boot-starter.version>1.2.13</pagehelper-spring-boot-starter.version>
         <druid-spring-boot-starter.version>1.1.23</druid-spring-boot-starter.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <hutool.version>5.3.9</hutool.version>
         <rocketmq.version>4.7.0</rocketmq.version>
