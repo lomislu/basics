@@ -42,7 +42,7 @@
         <rocketmq.version>4.7.0</rocketmq.version>
         <hashids.version>1.0.3</hashids.version>
         <jackson.version>2.11.0</jackson.version>
-        <fastjson.version>1.2.72</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <guava.version>29.0-jre</guava.version>
         <curator.version>5.1.0</curator.version>
 
